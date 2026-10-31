@@ -1,0 +1,5 @@
+# Preview screenshots and backups
+preview_*.png
+_tata_digital_pages_backup/
+*.log
+.DS_Store
